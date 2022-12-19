@@ -15,7 +15,7 @@ Geal was designed to be simple and clean, text color scheme was based on color s
 
 ## Preview
 <p align="center">
-<img  src="https://raw.githubusercontent.com/damc-code/damc.textpad-color-theme/main/images/screen.png"  
+<img  src="https://raw.githubusercontent.com/damc-code/vscode-theme-geal/main/samples/screen_example.png"  
 title="TextPad" />
 </p>
 Tested languages: Rust, Go, Python, Ruby, Java, Javascript, C#, C, C++, Typescript, PHP, Elixir, Groovy, Lua, Clojure, HTML
