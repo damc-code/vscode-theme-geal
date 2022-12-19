@@ -1,0 +1,69 @@
+{
+	"name": "geal-theme",
+	"displayName": "Geal Color Theme",
+	"description": "Minimalist theme, enable you to focus on just writing code",
+	"version": "1.0.0",
+	"publisher": "damc",
+	"maintainers": [
+		"damc"
+	],
+	"icon": "icon.png",
+	"galleryBanner": {
+		"color": "#DDDDDD",
+		"theme": "light"
+	},
+	"engines": {
+		"vscode": "*"
+	},
+	"categories": [
+		"Themes"
+	],
+	"keywords": [
+		"theme",
+		"scheme",
+		"color-theme",
+		"icon-theme",
+		"minimal",
+		"sublime",
+		"light",
+		"dark",
+		"mono"
+	],
+	"contributes": {
+		"themes": [
+			{
+				"id": "geal-color-theme-light",
+				"label": "Light (Geal)",
+				"uiTheme": "vs",
+				"path": "./theme/geal-color-theme-light.json"
+			}
+		],
+		"iconThemes": [
+			{
+				"id": "geal",
+				"label": "Geal Light",
+				"path": "/theme/geal-light-icons.json"
+			}
+		]
+	},
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/artlaman/chalice-color-theme.git"
+	},
+	"bugs": {
+		"url": "https://github.com/artlaman/chalice-color-theme/issues"
+	},
+	"homepage": "https://github.com/artlaman/chalice-color-theme/blob/master/README.md",
+	"license": "MIT",
+	"__metadata": {
+		"id": "24e8a7ac-7466-43d9-8572-f735d5c97536",
+		"publisherId": "bf24683f-2302-4702-8f3c-2ebbc1d42dbe",
+		"publisherDisplayName": "damc",
+		"targetPlatform": "undefined",
+		"isApplicationScoped": false,
+		"updated": false,
+		"isPreReleaseVersion": false,
+		"installedTimestamp": 1670298823174,
+		"preRelease": false
+	}
+}
