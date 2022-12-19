@@ -1,7 +1,7 @@
 
 # Geal
 
-Geal was designed to be simple and clean, text color schema was based on color scheme of the old Textpad editor
+Geal was designed to be simple and clean, text color scheme was based on color scheme of the old Textpad editor
 
 ## Syntax Palette
 
