@@ -210,7 +210,7 @@
     "editorBracketHighlight.unexpectedBracket.foreground": "#ff0000",
 
     //Gutter
-    "editorGutter.background": "#fdfdfd",
+    "editorGutter.background": "#ffffff",
 
     // Panel colors
     "panel.border": "#DDDDDD",
