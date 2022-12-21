@@ -134,8 +134,8 @@
     "scrollbarSlider.hoverBackground": "#a6a6a67a",
 
     // Badge
-    "badge.background": "#d75555",
-    "badge.foreground": "#ffffff",
+    "badge.background": "#ffde85",
+    "badge.foreground": "#000000",
 
     // Lists and trees
     "list.activeSelectionBackground": "#e8e8e8",
@@ -169,7 +169,7 @@
     // Editor Groups & Tabs
     "editorGroupHeader.tabsBackground": "#f3f2f2",
     "editorGroupHeader.tabsBorder": "#00000000",
-    "editorGroup.emptyBackground": "#283752",
+    "editorGroup.emptyBackground": "#F1F0F0",
 
     "tab.border": "#00000000",
     "tab.inactiveBackground": "#f3f2f2",
@@ -178,11 +178,10 @@
     "tab.activeForeground": "#000000",
     "tab.inactiveForeground": "#b6b4b4",
 
-
     // Editor colors
     "editor.background": "#ffffff",
     "editor.foreground": "#000",
-    "editor.selectionBackground": "#bfdbfe",
+    "editor.selectionBackground": "#FEE6FF",
     "editor.inactiveSelectionBackground": "#e0e0e0",
     "editor.lineHighlightBackground": "#FFFAEE",
     "editor.lineHighlightBorder": "#FFFAEE",
