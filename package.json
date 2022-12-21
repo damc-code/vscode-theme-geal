@@ -9,7 +9,7 @@
 	],
 	"icon": "icon.png",
 	"galleryBanner": {
-		"color": "#DDDDDD",
+		"color": "#FFFAEE",
 		"theme": "light"
 	},
 	"engines": {
