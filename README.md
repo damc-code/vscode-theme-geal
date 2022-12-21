@@ -3,6 +3,13 @@
 
 Geal was designed to be simple and clean, text color scheme was based on color scheme of the old Textpad editor
 
+## Preview
+<p align="center">
+<img  src="https://raw.githubusercontent.com/damc-code/vscode-theme-geal/main/samples/screen_example.png"  
+title="TextPad" />
+</p>
+Tested languages: Rust, Go, Python, Ruby, Java, Javascript, C#, C, C++, Typescript, PHP, Elixir, Groovy, Lua, Clojure, HTML
+
 ## Syntax Palette
 
 | Scope       | Color                                              | Scope   | Color              |
@@ -12,15 +19,8 @@ Geal was designed to be simple and clean, text color scheme was based on color s
 | Brackets (Not Required) | ![#DC322F](https://via.placeholder.com/35/DC322F/?text=+) | Strings | ![#008080](https://via.placeholder.com/35/008080/?text=+) |
 | Storage/Support | ![#0000AA](https://via.placeholder.com/35/0000AA/?text=+) | Constants | ![#AD4011](https://via.placeholder.com/35/AD4011/?text=+) |
 
+Do you want your editor to look like the example image above?
 
-## Preview
-<p align="center">
-<img  src="https://raw.githubusercontent.com/damc-code/vscode-theme-geal/main/samples/screen_example.png"  
-title="TextPad" />
-</p>
-Tested languages: Rust, Go, Python, Ruby, Java, Javascript, C#, C, C++, Typescript, PHP, Elixir, Groovy, Lua, Clojure, HTML
-
-Do you want your editor looks like the previous image?
 Follow these steps:
 
 1. Disable the VSCode explorer options "Outline", "NPM Scripts"
@@ -30,10 +30,6 @@ Follow these steps:
 ```js
 {
     "editor.fontFamily": "IBMPlexMono",
-    "editor.fontLigatures": true,
-    "editor.occurrencesHighlight": false,
-    "editor.selectionHighlight": false,
-    "editor.matchBrackets": "never",
     "workbench.editor.tabCloseButton": "left",
     "workbench.editor.showIcons": false,
     "breadcrumbs.enabled": false,
