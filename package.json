@@ -2,7 +2,7 @@
 	"name": "geal-theme",
 	"displayName": "Geal Theme",
 	"description": "Minimalist theme, enable you to focus on just writing code",
-	"version": "1.0.15",
+	"version": "1.0.16",
 	"publisher": "damc",
 	"maintainers": [
 		"damc"
@@ -74,12 +74,12 @@
 	},
 	"repository": {
 		"type": "git",
-		"url": "https://github.com/artlaman/chalice-color-theme.git"
+		"url": "https://github.com/damc-code/vscode-theme-geal.git"
 	},
 	"bugs": {
-		"url": "https://github.com/artlaman/chalice-color-theme/issues"
+		"url": "https://github.com/damc-code/vscode-theme-geal/issues"
 	},
-	"homepage": "https://github.com/artlaman/chalice-color-theme/blob/master/README.md",
+	"homepage": "https://github.com/damc-code/vscode-theme-geal",
 	"license": "MIT",
 	"__metadata": {
 		"id": "24e8a7ac-7466-43d9-8572-f735d5c97536",
