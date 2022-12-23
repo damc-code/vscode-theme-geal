@@ -33,6 +33,12 @@ Follow these steps:
     "workbench.editor.tabCloseButton": "left",
     "workbench.editor.showIcons": false,
     "breadcrumbs.enabled": false,
+    "editor.guides.indentation": false,
+    "editor.minimap.enabled": false,
+    "workbench.tree.indent": 10,
+    "workbench.tree.renderIndentGuides": "always",
+    "editor.cursorSmoothCaretAnimation": true,
+    "editor.smoothScrolling": true,
 }
 ```
 

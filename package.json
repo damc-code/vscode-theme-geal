@@ -70,7 +70,7 @@
 				"label": "Geal Light",
 				"path": "/theme/geal-light-icons.json"
 			}
-		]
+		],
 	},
 	"repository": {
 		"type": "git",
