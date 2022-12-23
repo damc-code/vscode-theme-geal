@@ -2,7 +2,7 @@
 	"name": "geal-theme",
 	"displayName": "Geal Theme",
 	"description": "Minimalist theme, enable you to focus on just writing code",
-	"version": "1.0.17",
+	"version": "1.0.18",
 	"publisher": "damc",
 	"maintainers": [
 		"damc"
@@ -70,7 +70,7 @@
 				"label": "Geal Light",
 				"path": "/theme/geal-light-icons.json"
 			}
-		],
+		]
 	},
 	"repository": {
 		"type": "git",

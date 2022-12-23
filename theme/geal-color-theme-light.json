@@ -82,7 +82,8 @@
                 "entity.other",
                 "support.function",
                 "support.class",
-                "meta.function-call.generic"
+                "meta.function-call.generic",
+                "support.type",
       ],
       "settings": {
         "foreground": "#0000AA"
