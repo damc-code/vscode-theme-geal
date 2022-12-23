@@ -33,6 +33,12 @@
       }
     },
     {
+      "scope": "punctuation",
+      "settings": {
+        "foreground": "#777777"
+      }
+    },
+    {
       "name": "Constants",
       "scope": [
           "entity.name.function.preprocessor",
@@ -40,8 +46,7 @@
           "constant.character",
           "constant.keyword",
           "constant.numeric",
-          "constant",
-          "variable.other.constant"
+          "constant"
         ],
         "settings": {
           "foreground": "#AD4011",
